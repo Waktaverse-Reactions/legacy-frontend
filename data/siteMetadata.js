@@ -5,7 +5,7 @@ const siteMetadata = {
   description: 'Waktaverse Reactions팀의 최근 같이보기 영상들 입니다!',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
+  siteUrl: 'https://wakreactions.info',
   siteRepo: 'https://github.com/DOS0313/Waktaverse-Reactions-Site',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
