@@ -7,6 +7,7 @@ import kebabCase from '@/lib/utils/kebabCase'
 
 // Define the mapping of tags to genres
 const tagGenres = {
+  WAK: ['우왁굳'],
   ISEDOL: ['아이네', '징버거', '릴파', '주르르', '고세구', '비챤'],
   GOMEM: [
     '뢴트게늄',
