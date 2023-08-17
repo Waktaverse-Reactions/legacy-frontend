@@ -19,4 +19,4 @@ occupation: 같이보기 시리즈 제작 팀
 
 ### 지원/문의
 
-**사이트 관련 문의** : dosstudio0313@gmail.com
+**문의** : contact@wakreactions.info
