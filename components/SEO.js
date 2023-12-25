@@ -141,7 +141,7 @@ export const BlogSEO = ({
   return (
     <>
       <CommonSEO
-        title={title}
+        title={`${title} 같이보기`}
         description={summary}
         ogType="article"
         ogImage={featuredImages}
