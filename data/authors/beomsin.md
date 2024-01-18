@@ -1,5 +1,5 @@
 ---
-name: 준마
+name: 범승
 avatar: /static/images/avatars/beomsin.png
 occupation: Waktaverse Reactions 영상 제작 팀
 ---
