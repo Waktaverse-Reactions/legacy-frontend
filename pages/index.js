@@ -19,12 +19,11 @@ export default function Home({ posts }) {
     <>
       <PageSEO title={siteMetadata.title} description={siteMetadata.description} />
       <div className="divide-y divide-gray-200 dark:divide-gray-700">
-        <div className="divide-y pt-2 pb-8">
-          {/* 배너 바꾸는거 정리 해야함 */}
+        {/* <div className="divide-y pt-2 pb-8">
           <a href="https://www.youtube.com/@WOO1AN">
             <img src="https://cdn.discordapp.com/attachments/1080297563674120204/1188672248022827059/VISIT_WAKRE_3.png?ex=659b604c&is=6588eb4c&hm=d578163aa0444d9a816a60eb791c974d96e7f87564433538498c63fcafd92d9c&" />
           </a>
-        </div>
+        </div> */}
         <div className="space-y-2 pt-6 pb-8 md:space-y-5">
           <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
             Latest
