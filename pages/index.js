@@ -19,11 +19,11 @@ export default function Home({ posts }) {
     <>
       <PageSEO title={siteMetadata.title} description={siteMetadata.description} />
       <div className="divide-y divide-gray-200 dark:divide-gray-700">
-        {/* <div className="divide-y pt-2 pb-8">
-          <a href="https://www.youtube.com/@WOO1AN">
-            <img src="https://cdn.discordapp.com/attachments/1080297563674120204/1188672248022827059/VISIT_WAKRE_3.png?ex=659b604c&is=6588eb4c&hm=d578163aa0444d9a816a60eb791c974d96e7f87564433538498c63fcafd92d9c&" />
+        <div className="divide-y pt-2 pb-8">
+          <a href="#">
+            <img src="https://cdn.discordapp.com/attachments/1136601898116464710/1212575397032493137/Frame_10.png?ex=65f255d7&is=65dfe0d7&hm=898777650762a29f21b9e5981df53ebe66f0ba2c24e96f9e114af36a33c70ea5&" />
           </a>
-        </div> */}
+        </div>
         <div className="space-y-2 pt-6 pb-8 md:space-y-5">
           <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
             Latest
